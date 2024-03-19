@@ -1,0 +1,18 @@
+shell = "fish"
+
+[window]
+opacity = 0.74
+padding = { x = 7, y = 4 }
+#dynamic_padding = true
+
+[font]
+size = 10
+normal = { family = "Hack Nerd Font Mono", style = "Regular" }
+bold = { family = "Hack Nerd Font Mono", style = "Bold" }
+italic = { family = "Hack Nerd Font Mono", style = "Italic" }
+bold_italic = { family = "Hack Nerd Font Mono", style = "Bold Italic" }
+
+[colors.primary]
+#background = "#181928"
+background = "#1c1d2d"
+foreground = "#d5d5e5"
